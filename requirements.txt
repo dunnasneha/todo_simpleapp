@@ -1,0 +1,6 @@
+# Core
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Optional – production WSGI server (remove if not needed)
+gunicorn==21.2.0
